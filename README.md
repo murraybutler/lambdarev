@@ -1,6 +1,6 @@
 # lambdarev
 
-## sipmle python file for code review
+## simple python file for code review
 
 - clone
 - review
